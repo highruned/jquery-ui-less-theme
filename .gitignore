@@ -1,2 +1,2 @@
-bin/*.less
-src/*.css
+build/*.less
+source/*.css

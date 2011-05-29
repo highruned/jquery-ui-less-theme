@@ -5,7 +5,7 @@ A port of the base jQuery UI theme to LESS. I will be making improvements to sim
 ## Getting started
 
 * Clone the repo: `git clone git@github.com:ericmuyser/jquery-ui-less-theme.git`
-* LESS files in the `src` directory are compiled into CSS files in the `bin` directory.
+* LESS files in the `source` directory are compiled into CSS files in the `build` directory.
 
 # Credit
 
